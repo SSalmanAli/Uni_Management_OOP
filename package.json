@@ -1,0 +1,15 @@
+{
+  "name": "university_managment",
+  "version": "1.0.0",
+  "description": "University management",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed Salman Ali",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  }
+}
